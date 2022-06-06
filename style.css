@@ -1,0 +1,50 @@
+body{
+background-color: darkcyan;
+
+
+}
+.topnav a {
+    <nav class="top-bar fixed"></nav>
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+    
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(15, 161, 64);
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+.topnav p{
+    color: aliceblue;
+    margin: auto;
+    padding-top: 10px;
+}
+.topnav h3:hover{
+    padding-top: 10px;
+    margin: auto;
+    font-style: italic;
+}
+.topnav form{
+    padding-top: 10px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+  }
+  .circular--square { border-radius: 50%; }
+  
+  
